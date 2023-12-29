@@ -1,0 +1,5 @@
+[2023-12-25 22:59:28,320] [INFO] has no receiver: test.test_hello
+[2023-12-25 22:59:28,321] [INFO] None has no method test_hello
+[2023-12-25 22:59:28,321] [INFO] receiver None method test_hello is not callable
+[2023-12-26 20:32:04,560] [INFO] has no receiver: test.test_hello
+[2023-12-26 20:36:12,771] [INFO] handleRpc err test_hello() takes 0 positional arguments but 1 was given

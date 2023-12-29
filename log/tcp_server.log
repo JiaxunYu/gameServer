@@ -1,0 +1,92 @@
+[2023-12-23 17:31:28,695] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:14:51,460] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:17:21,903] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:20:48,542] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:20:50,346] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:20:50,346] [INFO] server stop
+[2023-12-23 18:23:01,678] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:23:03,241] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:23:03,242] [INFO] server stop
+[2023-12-23 18:29:16,466] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:29:25,053] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:30:38,707] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:30:40,901] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:30:40,901] [INFO] server stop
+[2023-12-23 18:38:28,317] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:38:32,554] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:38:32,555] [INFO] server stop
+[2023-12-23 18:41:42,706] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:41:48,732] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:41:50,047] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:41:50,048] [INFO] server stop
+[2023-12-23 18:50:28,142] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:50:30,391] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:50:30,391] [INFO] server stop
+[2023-12-23 18:52:44,900] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:58:09,393] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:58:35,123] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:59:45,877] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 18:59:47,375] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 18:59:47,375] [INFO] server stop
+[2023-12-23 19:03:03,625] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-23 19:03:33,321] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-23 19:03:33,321] [INFO] server stop
+[2023-12-25 20:43:38,761] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 20:44:20,125] [INFO] new_connection, addr ('10.226.161.176', 60111) connect_id 11
+[2023-12-25 20:44:49,824] [INFO] close client, addr ('10.226.161.176', 60111) connect_id 11
+[2023-12-25 20:49:04,398] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 20:49:13,486] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-25 20:49:13,486] [INFO] server stop
+[2023-12-25 20:49:46,308] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 20:50:54,167] [INFO] new_connection, addr ('10.226.161.176', 64196) connect_id 11
+[2023-12-25 20:51:27,380] [INFO] close client, addr ('10.226.161.176', 64196) connect_id 11
+[2023-12-25 20:51:32,274] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-25 20:51:59,343] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 20:52:05,556] [INFO] new_connection, addr ('10.226.161.176', 55389) connect_id 11
+[2023-12-25 20:52:17,175] [INFO] close client, addr ('10.226.161.176', 55389) connect_id 11
+[2023-12-25 21:46:09,119] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:47:03,688] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:47:45,393] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:50:19,492] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:58:09,686] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:58:23,550] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-25 21:58:23,550] [INFO] server stop
+[2023-12-25 21:59:13,356] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 21:59:34,673] [INFO] new_connection, addr ('10.226.161.176', 61899) connect_id 16
+[2023-12-25 22:00:33,346] [INFO] close client, addr ('10.226.161.176', 61899) connect_id 16
+[2023-12-25 22:02:11,488] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:03:41,749] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-25 22:03:41,749] [INFO] server stop
+[2023-12-25 22:03:44,141] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:03:50,824] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet
+[2023-12-25 22:03:50,824] [INFO] server stop
+[2023-12-25 22:03:54,526] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:07:10,070] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:07:17,775] [INFO] new_connection, addr ('10.226.161.176', 53183) connect_id 11
+[2023-12-25 22:08:33,459] [INFO] close client, addr ('10.226.161.176', 53183) connect_id 11
+[2023-12-25 22:10:28,710] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:10:34,080] [INFO] new_connection, addr ('10.226.161.176', 57908) connect_id 11
+[2023-12-25 22:11:25,704] [INFO] close client, addr ('10.226.161.176', 57908) connect_id 11
+[2023-12-25 22:55:25,933] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:55:32,388] [INFO] new_connection, addr ('10.226.161.176', 58345) connect_id 11
+[2023-12-25 22:58:04,268] [INFO] close client, addr ('10.226.161.176', 58345) connect_id 11
+[2023-12-25 22:59:22,453] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-25 22:59:28,319] [INFO] new_connection, addr ('10.226.161.176', 63360) connect_id 11
+[2023-12-25 23:11:59,349] [INFO] close client, addr ('10.226.161.176', 63360) connect_id 11
+[2023-12-26 20:25:11,107] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:25:36,931] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:30:36,282] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:31:12,959] [INFO] new_connection, addr ('10.226.161.176', 51786) connect_id 12
+[2023-12-26 20:32:12,721] [INFO] close client, addr ('10.226.161.176', 51786) connect_id 12
+[2023-12-26 20:35:31,100] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:35:37,203] [INFO] new_connection, addr ('10.226.161.176', 53723) connect_id 12
+[2023-12-26 20:37:02,794] [INFO] close client, addr ('10.226.161.176', 53723) connect_id 12
+[2023-12-26 20:45:21,743] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:45:26,647] [INFO] new_connection, addr ('10.226.161.176', 63160) connect_id 12
+[2023-12-26 20:46:03,929] [INFO] close client, addr ('10.226.161.176', 63160) connect_id 12
+[2023-12-26 20:47:29,460] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:47:34,525] [INFO] new_connection, addr ('10.226.161.176', 50447) connect_id 12
+[2023-12-26 20:50:46,015] [INFO] start server, addr ('10.215.40.10', 8888)
+[2023-12-26 20:50:52,786] [INFO] new_connection, addr ('10.226.161.176', 57403) connect_id 12
+[2023-12-26 20:51:06,392] [INFO] close client, addr ('10.226.161.176', 57403) connect_id 12
+[2023-12-26 20:51:06,393] [INFO] error in accept [Errno 9] File descriptor was closed in another greenlet

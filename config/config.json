@@ -1,0 +1,12 @@
+{
+	"tcp":{
+		"msg_quene_size": 1000,
+		"max_listen_num": 1000,
+		"port": 8888
+	},
+	"ws":{
+		"msg_quene_size": 1000,
+		"port": 8887
+	}
+
+}
